@@ -1,2 +1,2 @@
-﻿name = "site-v2"
+﻿name = "sitev2"
 main = "./.output/server/index.mjs"
